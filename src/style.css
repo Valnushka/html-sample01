@@ -1,0 +1,38 @@
+.menu-container {
+    display: flex;
+    flex-direction: row;
+    background: rgb(0, 138, 37);
+    font-family: arial;
+    justify-content: space-between;
+}
+
+.user {}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+ul {}
+
+.menu-list {}
+
+.user-list {}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: 3vw;
+}
+
+li {
+    padding-right: 40px;
+}
+
+a {
+    color: white;
+}
